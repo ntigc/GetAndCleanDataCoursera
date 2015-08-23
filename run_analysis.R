@@ -18,6 +18,8 @@
 ##    ActivityLabel DataSet
 ## 4. Select only the needed variables, naming them
 ##    based on the features.txt file
+## 5. calculates the average of each variable, by activity
+##    name and subject
 ##******************************************************
 
 
